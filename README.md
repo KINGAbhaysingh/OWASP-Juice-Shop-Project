@@ -17,11 +17,3 @@ Performed a security assessment on OWASP Juice Shop.
 3. Analyze traffic
 4. Document findings
 5. Create recommendations
-
-## Screenshots
-
-### Juice Shop Home
-![Home](screenshots/home-page.png)
-
-### Burp Suite
-![Burp](screenshots/burp-running.png)
